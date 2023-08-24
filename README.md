@@ -21,7 +21,7 @@ To reset the game and clear the scoreboard, simply click the "Reset" button.
 
 ## Preview
 
-![rockpaperscissor](https://github.com/ismguen/simple-Rock-Paper-Scissor/assets/130120780/31160016-54c7-4d1f-a6ea-0862b3ada8b7)
+![rockpaperscissor](https://github.com/ismguen/rock-paper-scissor-js/assets/130120780/4888415c-2bb1-44cc-913d-7afcc3372787)
 
 
 
