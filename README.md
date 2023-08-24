@@ -16,7 +16,7 @@ To reset the game and clear the scoreboard, simply click the "Reset" button.
 
 ## Installation
 
-1. Clone this repository using: `git clone https://github.com/ismguen/simple-Rock-Paper-Scissor.git`
+1. Clone this repository using: `git clone https://github.com/ismguen/rock-paper-scissor-js.git`
 2. Open the HTML file in your preferred web browser.
 
 ## Preview
