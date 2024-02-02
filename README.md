@@ -26,7 +26,7 @@ To reset the game and clear the scoreboard, simply click the "Reset" button.
 
 ## Link to Website
 
- `https://ismguen.github.io/rock-paper-scissor-js/game/index.html`
+[ROCK-PAPER-SCISSOR](https://ismguen.github.io/rock-paper-scissor-js/game/index.html)
 
 ## Technologies Used
 
